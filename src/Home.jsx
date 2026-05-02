@@ -20,7 +20,7 @@ function Home() {
   const handleSearch = (e) => {
     e.preventDefault()
     if (query.trim()) {
-      window.open(`/search?q=${encodeURIComponent(query.trim())}`, '_blank')
+      window.open(`/productapp/search?q=${encodeURIComponent(query.trim())}`, '_blank')
     }
   }
 

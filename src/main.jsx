@@ -4,7 +4,7 @@ import './index.css'
 import App from './App.jsx'
 
 createRoot(document.getElementById('root')).render(
-  <BrowserRouter basename="/product-app">
+  <BrowserRouter basename="/productapp">
     <App />
   </BrowserRouter>
 )
