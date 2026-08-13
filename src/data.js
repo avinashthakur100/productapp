@@ -264,12 +264,6 @@ export const products = [
     "id": "44"
   },
   {
-    "product": "https://loremflickr.com/1121/2042?lock=5254456157930057",
-    "price": "930.29",
-    "name": "Salad",
-    "id": "45"
-  },
-  {
     "product": "https://loremflickr.com/2165/3954?lock=503609611491195",
     "price": "380.39",
     "name": "Chips",
